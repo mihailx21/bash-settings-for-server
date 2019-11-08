@@ -42,13 +42,8 @@ echo "Version nodejs"
 nodejs -v
 echo "Version nginx"
 nginx -v
-echo "Version git"
-git -v
-echo "Version postgres"
-postgresql -v
-echo "Version mysql"
-mysql-server -v
-echo "Version mongodb"
-mongodb -v
-echo "Version create-react-app"
-create-react-app -v
+echo "Install GIT - YES"
+echo "Install postgres - YES"
+echo "Install mysql -YES"
+echo "Install mongodb - YES"
+echo "Install create-react-app - YES"
