@@ -35,3 +35,20 @@ cat <<EOF >khristichmihail.conf
     }
   }
 EOF
+clear
+echo "Version npm"
+npm -v
+echo "Version nodejs"
+nodejs -v
+echo "Version nginx"
+nginx -v
+echo "Version git"
+git -v
+echo "Version postgres"
+postgresql -v
+echo "Version mysql"
+mysql-server -v
+echo "Version mongodb"
+mongodb -v
+echo "Version create-react-app"
+create-react-app -v
